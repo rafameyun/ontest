@@ -12,7 +12,9 @@
 
 6- $ git merge branch ( ) /* comando executado porém não deu bom, treina mais para entender e usar
 
-7- $ git diff branch origem branch destino (OK) /* deu bom, é só fazer o git add e comparar o branch de origem (A) com o branch de destino (B) no caso do README.md por exemplo: git --diff a/README.md b/README.md 
+7- $ git diff branch origem branch destino (OK) /* não é tão simples como parece, compensa mais dar o git add -i e ir em patch >> Read
+
+8- $ git rm (OK) /* só um comando básico para remover um commit, útil
 
 # DICAS ÚTEIS
 
