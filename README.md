@@ -1,5 +1,4 @@
 # Teste dos comandos git
-test test one two three...
 
 1- $ git add filename (OK) /* para adicionar um arquivo do seu repo local e poder fazer o commit
 
