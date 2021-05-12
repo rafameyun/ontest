@@ -12,7 +12,7 @@
 
 6- $ git merge branch ( ) /* comando executado porém não deu bom, treina mais para entender e usar
 
-7- $ git diff branch origem branch destino ( ) /* não entendi o comando e nem consegui executar, treina mais seu corno
+7- $ git diff branch origem branch destino (OK) /* não entendi o comando e nem consegui executar, treina mais seu corno
 
 # DICAS ÚTEIS
 
